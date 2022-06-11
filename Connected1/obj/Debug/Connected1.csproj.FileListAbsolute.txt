@@ -1,0 +1,7 @@
+C:\Users\ERIK\source\repos\Connected1\Connected1\bin\Debug\Connected1.exe.config
+C:\Users\ERIK\source\repos\Connected1\Connected1\bin\Debug\Connected1.exe
+C:\Users\ERIK\source\repos\Connected1\Connected1\bin\Debug\Connected1.pdb
+C:\Users\ERIK\source\repos\Connected1\Connected1\obj\Debug\Connected1.csprojAssemblyReference.cache
+C:\Users\ERIK\source\repos\Connected1\Connected1\obj\Debug\Connected1.csproj.CoreCompileInputs.cache
+C:\Users\ERIK\source\repos\Connected1\Connected1\obj\Debug\Connected1.exe
+C:\Users\ERIK\source\repos\Connected1\Connected1\obj\Debug\Connected1.pdb
